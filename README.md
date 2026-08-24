@@ -75,7 +75,7 @@ Benefits comparison across offers:
 - Benefit score or ranking per job/offer
 - Visual comparison of total compensation packages.
 
-![Benefits.png](image\README\Benefits.png)
+![Benefit.png](image\README\Benefits.png)
 
 ---
 
