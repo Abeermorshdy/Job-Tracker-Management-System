@@ -75,7 +75,7 @@ Benefits comparison across offers:
 - Benefit score or ranking per job/offer
 - Visual comparison of total compensation packages.
 
-![Benefit.png](image\README\Benefits.png)
+![1787582480189](image/README/1787582480189.png)
 
 ---
 
@@ -121,23 +121,9 @@ Main tables in the data model (names may vary slightly):
 
 - `Jobs` – Core job/application data (title, company, country, status, dates, etc.)
 - `Skills` – Skills extracted from job descriptions
-- `Salaries` – Salary information (min, max, median, currency, etc.)
-- `Benefits` – Benefits details per job/offer
-- `Countries` – Country reference table (including Arab / non‑Arab flag if used)
+- `Calender` – Date Table
 
 Relationships are defined in Power Pivot to enable cross-filtering between tables.
-
----
-
-## 🧪 Example Analyses You Can Run
-
-- “What is the median salary for Data Analyst roles in Arab countries vs. non‑Arab countries?”
-- “Which 5 skills appear most often in the jobs I’ve applied to?”
-- “What is my interview-to-application ratio by month?”
-- “Which job offers have the best overall benefits score?”
-
----
-
 
 ## 🤝 Contributing / Reuse
 
