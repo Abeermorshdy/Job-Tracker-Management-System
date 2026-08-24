@@ -47,7 +47,7 @@ High-level overview of your job pipeline:
 - Key KPIs (e.g., Salary overview).
 - Schedule Type Slicer (Full time, Part time, ..)
 
-![1787580504817](image/README/1787580504817.png)
+![Summary](image/README/Summary.png)
 
 ### 2. Skill Analysis
 
@@ -58,14 +58,14 @@ Deep dive into required and possessed skills:
 - Skills by job title / industry.
 - Priority skills to focus on for upskilling
 
-![1787580630742](image/README/1787580630742.png)
+![Skill analysis](<image/README/Skill analysis.png>)
 
 ### 3. Salary Analysis
 
 Salary benchmarking and comparison:
 
 - Median salary by role, experience level, and country
-- Arab vs. non‑Arab countries salary comparison (using DAX measures).![1787580697187](image/README/1787580697187.png)
+- Arab vs. non‑Arab countries salary comparison (using DAX measures).![Salary analysis](<image/README/Salary analysis.png>)
 
 ### 4. Benefits
 
@@ -75,7 +75,7 @@ Benefits comparison across offers:
 - Benefit score or ranking per job/offer
 - Visual comparison of total compensation packages.
 
-![1787580854026](image/README/1787580854026.png)
+![Benefits.png](image\README\Benefits.png)
 
 ---
 
@@ -162,6 +162,6 @@ This project is licensed under the [MIT License](LICENSE) – feel free to use a
 - **Name:** Abeer Mohamed Elmorshdy
 - **LinkedIn:** [www.linkedin.com/in/abeer-mohamed-elmorshdy](https://www.linkedin.com/in/abeer-mohamed-elmorshdy/)
 - **GitHub:** [github.com/Abeermorshdy](https://github.com/Abeermorshdy)
-- **Link To Online Dashboard:** [1drv.ms/x/c/72b8deef7e79e39c/IQAqT7I8yvH0TbJGB7uoBWw4AXchUBqfouGUffyl8wsOijs?e=sUQhfe](https://1drv.ms/x/c/72b8deef7e79e39c/IQAqT7I8yvH0TbJGB7uoBWw4AXchUBqfouGUffyl8wsOijs?e=sUQhfe)
+- Link To Online Da
 
 Feel free to reach out if you have questions or suggestions!
